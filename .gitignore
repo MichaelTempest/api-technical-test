@@ -1,6 +1,6 @@
 ### DotnetCore ###
 # .NET Core build folders
-/bin
-/obj
-/packages
+bin/
+obj/
+packages/
 
