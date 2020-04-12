@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Nichols Pickett",
+    "email": "nicholspickett@comvey.com",
+    "phone": "+1 (824) 524-2452",
+    "address": "373 Bedford Avenue, Avalon, South Dakota, 9907",
+    "role": "Admin"
+  },
+  {
+    "name": "Hansen Mcpherson",
+    "email": "hansenmcpherson@comvey.com",
+    "phone": "+1 (985) 433-3846",
+    "address": "768 Fiske Place, Kersey, Oregon, 1283",
+    "role": "CEO"
+  },
+  {
+    "name": "Mendez Dennis",
+    "email": "mendezdennis@comvey.com",
+    "phone": "+1 (916) 539-2474",
+    "address": "559 Fleet Place, Helen, Arkansas, 8458",
+    "role": "Manager"
+  },
+  {
+    "name": "Kathleen Farmer",
+    "email": "kathleenfarmer@comvey.com",
+    "phone": "+1 (805) 492-2551",
+    "address": "440 Folsom Place, Takilma, Montana, 163",
+    "role": "Staff"
+  },
+  {
+    "name": "Ortiz Rich",
+    "email": "ortizrich@comvey.com",
+    "phone": "+1 (917) 590-2035",
+    "address": "151 Garden Street, Glenshaw, New Mexico, 7001",
+    "role": "Staff"
+  },
+  {
+    "name": "April Owens",
+    "email": "aprilowens@comvey.com",
+    "phone": "+1 (965) 562-2533",
+    "address": "188 Opal Court, Saticoy, Minnesota, 7783",
+    "role": "Staff"
+  },
+  {
+    "name": "Lila Baker",
+    "email": "lilabaker@comvey.com",
+    "phone": "+1 (825) 496-3101",
+    "address": "380 Suydam Street, Bison, Arizona, 6306",
+    "role": "Staff"
+  }
+]
