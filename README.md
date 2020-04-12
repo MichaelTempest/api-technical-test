@@ -4,7 +4,7 @@ Thank you for taking the time to attend the next stage of interview at compareth
 
 # Instructions 📖
 
-We would like you pair with an existing CTM employee to produce an API in `dotnet core` that has the following functionality:
+We would like you to pair with an existing CTM employee to produce an API in `dotnet core` that has the following functionality:
 
 * Search for users by email
 * Retrieve details of an existing user (name, address, email address, phone number, role)
