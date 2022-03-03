@@ -1,5 +1,3 @@
-using System;
-
 namespace employee_api
 {
     public class Employee
